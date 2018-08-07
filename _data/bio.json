@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "name": "Wenhan Wang",
+    "label": "Front End Developer",
+    "picture": "https://techfolios.github.io/template/images/wenhan.jpg",
+    "email": "wenhan.work@gmail.com",
+    "phone": "720-354-8264",
+    "website": "https://Wenhan129.github.io",
+    "summary": "I am a website developer who is always willing to learn latest technologies, take the new challenges.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -14,8 +14,7 @@
       "countryCode": "USA",
       "region": "Hawaii"
     },
-    "profiles": [
-      {
+    "profiles": [{
         "network": "github",
         "username": "mmaluhia",
         "url": "http://github.com/changeme"
@@ -37,8 +36,7 @@
       }
     ]
   },
-  "interests": [
-    {
+  "interests": [{
       "name": "internet of things",
       "keywords": [
         "Arduino",
@@ -47,17 +45,14 @@
     },
     {
       "name": "data mining",
-      "keywords": [
-      ]
+      "keywords": []
     },
     {
       "name": "artificial intelligence",
-      "keywords": [
-      ]
+      "keywords": []
     }
   ],
-  "skills": [
-    {
+  "skills": [{
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
@@ -81,20 +76,16 @@
       ]
     }
   ],
-  "education": [
-    {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "gpa": "",
-      "courses": [
-      ]
-    }
-  ],
-  "work": [
-    {
+  "education": [{
+    "institution": "University of Hawaii, Honolulu, HI",
+    "area": "Computer Science (expected Spring, 2018)",
+    "studyType": "B.S.",
+    "startDate": "2013-09-01",
+    "endDate": "Present",
+    "gpa": "",
+    "courses": []
+  }],
+  "work": [{
       "company": "UH Manoa Board of Publications",
       "position": "Web Developer",
       "website": "",
@@ -119,8 +110,7 @@
       ]
     }
   ],
-  "volunteer": [
-    {
+  "volunteer": [{
       "organization": "Center for Renewable Energy and Island Sustainability",
       "website": "http://manoa.hawaii.edu/reis",
       "position": "Software Developer",
@@ -146,8 +136,7 @@
       ]
     }
   ],
-  "awards": [
-    {
+  "awards": [{
       "title": "B+ Scholarship",
       "date": "2013-Present",
       "awarder": "State of Hawaii",
@@ -160,10 +149,8 @@
       "summary": "My team won first place in 2015.  See my portfolio site for more details."
     }
   ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
-    }
-  ]
+  "references": [{
+    "name": "Available upon request",
+    "reference": ""
+  }]
 }
