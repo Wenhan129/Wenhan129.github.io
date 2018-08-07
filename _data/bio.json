@@ -2,37 +2,37 @@
   "basics": {
     "name": "Wenhan Wang",
     "label": "Front End Developer",
-    "picture": "https://techfolios.github.io/template/images/wenhan.jpg",
+    "picture": "https://wenhan129.github.io/template/images/wenhan.jpg",
     "email": "wenhan.work@gmail.com",
     "phone": "720-354-8264",
     "website": "https://Wenhan129.github.io",
-    "summary": "I am a website developer who is always willing to learn latest technologies, take the new challenges.",
+    "summary": "I am a front end developer who is always willing to learn latest technologies and take the new challenges.",
     "location": {
-      "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "address": "4120 E Warren Ave Unit 4",
+      "postalCode": "80222",
+      "city": "Denver",
       "countryCode": "USA",
-      "region": "Hawaii"
+      "region": "Colorado"
     },
     "profiles": [{
         "network": "github",
         "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "url": "http://github.com/wenhan129"
       },
       {
         "network": "linkedin",
         "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "url": "http://linkedin.com/in/wenhan129"
       },
       {
         "network": "twitter",
         "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "url": "http://twitter.com/yuoio"
       },
       {
         "network": "instagram",
         "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "url": "http://instagram.com/wenhan129"
       }
     ]
   },
